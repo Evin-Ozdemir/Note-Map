@@ -6,8 +6,7 @@
  <p>A quick preview of the Note Map interface with real-time location-based notes.</p>
 
 
-https://github.com/user-attachments/assets/a8660580-1193-471b-8087-b535cecfa930
-
+https://github.com/user-attachments/assets/c27b7388-8d8d-47f7-8bd8-cc15f73b0fe6
 
 
 <h2>🛠️ Technologies Used</h2>
